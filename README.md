@@ -18,5 +18,5 @@ I am a student pursuing my degree in Theoretical Physics at University College L
 ---
 
 ### 📫 Get In Touch
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **LinkedIn:** www.linkedin.com/in/ishaan-arya-574548318
 - **Email:** ishaan.arya134@gmail.com
