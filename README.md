@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there, I'm Ishaan 👋
 
-<!--
-**restiverumble/restiverumble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student pursuing my degree in Theoretical Physics at University College London (UCL) where my major interests lie in **backend software engineering**, **computational modeling**, and **quantitative finance**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **Algorithmic Trading Backtester:** A vectorized historic data fetching and simulation engine written in Python, Pandas, and NumPy for assessing trading algorithms.
+- **RAG Document Pipeline:** A production-grade backend pipeline implemented in FastAPI, Pydantic, and Chroma that parses text data, creates vector embeddings, and performs query through LLM endpoints.
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, Wolfram Mathematica, Bash
+- **Frameworks/Libraries:** FastAPI, Pandas, NumPy, Pydantic, LangChain, Chroma
+- **Tools:** Git, GitHub, Cursor
+
+---
+
+### 📫 Get In Touch
+- **LinkedIn:** [Your LinkedIn Profile URL]
+- **Email:** ishaan.arya134@gmail.com
